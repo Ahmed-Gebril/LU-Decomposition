@@ -5,4 +5,4 @@ User can find a randomly generated matrix or specify the matrix wanted in a part
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Ahmed-Gebril/LU-Decomposition/blob/master/LU.PNG)
