@@ -6,4 +6,4 @@ python:
 
 script: 
 
-  - python LU Decomposition.py
+  - python LU_Decomposition.py
