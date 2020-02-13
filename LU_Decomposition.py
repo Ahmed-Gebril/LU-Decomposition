@@ -38,7 +38,7 @@ def LU_initializer(matrix,size):
 def main():
 
     matrix = []
-    size = int(input('Enter the size of the a square matrix: '))
+    size = 5
 
 
     for i in range(size):  # create a list with nested lists
