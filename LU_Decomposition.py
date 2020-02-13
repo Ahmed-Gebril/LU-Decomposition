@@ -39,7 +39,6 @@ def main():
 
   matrix = []
 
-  if choice == 1:
 
     size = int(input('Enter the size of the a square matrix: '))
 
