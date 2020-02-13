@@ -37,7 +37,6 @@ def LU_initializer(matrix,size):
 
 def main():
 
-  choice = int(input('Enter 1 for generating a random matrix or 2 for a user-specified matrix'))
   matrix = []
 
   if choice == 1:
@@ -55,12 +54,7 @@ def main():
     print('Matrix L is', l)
     print('Matrix U is', u)
 
-  if choice ==2:
 
-    matrix = input('Enter a square matrix in the form: ([0,0],[0,0]): ')
-    l,u = LU_initializer(matrix,size)
-    print('Matrix L is',l)
-    print('Matrix U is',u)
 
 if __name__ == '__main__':
     main()
