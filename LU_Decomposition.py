@@ -37,9 +37,7 @@ def LU_initializer(matrix,size):
 
 def main():
 
-  matrix = []
-
-
+    matrix = []
     size = int(input('Enter the size of the a square matrix: '))
 
 
