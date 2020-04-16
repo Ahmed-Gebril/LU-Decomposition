@@ -1,5 +1,5 @@
 PYENV_HOME=$WORKSPACE/.sample1/
 if [ –d $PYENV_HOME ]; then
    rm –rf $PYENV_HOME
-fi
+fid
 
